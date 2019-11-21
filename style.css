@@ -12,9 +12,17 @@ text-align: right;
 color: #4a4a4a;
 }
 
-
 .yellow {
   width: 276px;
   height: 242px;
   background-color: #f8e71c;
+}
+
+.antartica {
+  width: 269px;
+  height: 214px;
+  font-family: RobotoSlab;
+  font-size: 36px;
+  font-weight: bold;
+  color: #4a4a4a;
 }
