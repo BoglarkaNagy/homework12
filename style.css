@@ -6,7 +6,15 @@ height: 500px;
 .didyouknow {
 width: 273px;
 height: 128px;
+font-family: RobotoSlab;
 font-size: 64px;
 text-align: right;
 color: #4a4a4a;
+}
+
+
+.yellow {
+  width: 276px;
+  height: 242px;
+  background-color: #f8e71c;
 }
