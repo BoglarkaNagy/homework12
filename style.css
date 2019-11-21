@@ -26,3 +26,11 @@ color: #4a4a4a;
   font-weight: bold;
   color: #4a4a4a;
 }
+
+.readmore {
+  width: 82px;
+  height: 21px;
+  font-family: RobotoSlab;
+  font-size: 14px;
+  color: #4a90e2;
+}
